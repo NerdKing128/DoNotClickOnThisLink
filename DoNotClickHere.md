@@ -1,1 +1,1 @@
-# Do not click [here](https://youtube.com/)
+# Do not click [here](https://youtube.com/).
